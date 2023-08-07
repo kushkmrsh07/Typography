@@ -1,0 +1,31 @@
+.containers {
+    align-items: center;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 2%;
+    border-bottom: 3px solid rgba(0, 0, 0,0.7);
+    
+}
+h2 {
+    font-size: 1.5em;
+    width: 96%;
+}
+.paragraph {
+    width: 385px;
+    height: 540px;
+    text-align: left;
+    margin-left: 449px;
+}
+p{
+    color: rgb(0 0 0 / 60%);
+}
+.vdo {
+    text-align:left;
+    margin-left: 449px;
+    margin-top: 0px;
+}
+.paragraph2 {
+    width:385px;
+    text-align: left;
+    margin-left: 449px;
+}
